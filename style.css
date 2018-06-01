@@ -1,0 +1,26 @@
+nav{
+    height: 7%;
+}
+
+.navbar {
+     display: flex;
+     flex-direction: row;
+     justify-content: center;
+     width: 100%;
+}
+
+.namecontainer {
+     display: flex;
+     width: 15%;
+     justify-content: center;
+}
+
+.linkcontainer {
+     display: flex;
+     width: 15%;
+     justify-content: center;
+}
+
+a.linkicon {
+     margin-left: 1%;
+}
