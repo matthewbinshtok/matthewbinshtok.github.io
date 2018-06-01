@@ -11,13 +11,15 @@ nav{
 
 .namecontainer {
      display: flex;
-     width: 15%;
+     margin-left: 1%;
+     margin-right: 1%;
      justify-content: center;
 }
 
 .linkcontainer {
      display: flex;
-     width: 15%;
+     margin-left: 3%;
+     margin-right: 3%;
      justify-content: center;
 }
 
